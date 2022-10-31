@@ -7,7 +7,8 @@ a (GET) api endpoint
 
 ## Submission
 
-The get request endpoint is available  http://lego2000.pythonanywhere.com/
+The get request endpoint is available  [here]
+
 
 
 
