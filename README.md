@@ -7,8 +7,9 @@ a (GET) api endpoint
 
 ## Submission
 
-The API endpoint URL is below
-v
+The API endpoint URL is here
+
+
 http://lego2000.pythonanywhere.com/
 
 
