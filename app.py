@@ -1,7 +1,6 @@
 from flask import Flask, jsonify
 from flask_cors import CORS
-import sys
-sys.path.append("/usr/local/lib/python2.7/site-packages")
+
 
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})
