@@ -7,7 +7,7 @@ a (GET) api endpoint
 
 ## Submission
 
-The get request endpoint is available here
+The get request endpoint is available  [here]
 
 
 
